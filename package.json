@@ -14,5 +14,10 @@
   "bugs": {
     "url": "https://github.com/hiroxto/heroku-puppeteer-tasks/issues"
   },
-  "homepage": "https://github.com/hiroxto/heroku-puppeteer-tasks#readme"
+  "homepage": "https://github.com/hiroxto/heroku-puppeteer-tasks#readme",
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "express": "^4.17.1",
+    "puppeteer": "^10.1.0"
+  }
 }
