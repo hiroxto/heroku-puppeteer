@@ -1,0 +1,18 @@
+{
+  "name": "heroku-puppeteer-tasks",
+  "version": "1.0.0",
+  "description": "HerokuでPuppeteerを使う",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroxto/heroku-puppeteer-tasks.git"
+  },
+  "author": "hiroxto <hiroxto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiroxto/heroku-puppeteer-tasks/issues"
+  },
+  "homepage": "https://github.com/hiroxto/heroku-puppeteer-tasks#readme"
+}
